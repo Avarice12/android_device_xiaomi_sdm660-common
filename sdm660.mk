@@ -161,7 +161,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    CameraGo
 
 PRODUCT_PACKAGES += \
     android.hardware.camera.device@3.4 \
